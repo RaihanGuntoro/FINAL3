@@ -1,0 +1,20 @@
+{
+    "name": "halaf219/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "Halaf219\\PhpMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "falah219",
+            "email": "falahyudhistira219@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.62",
+        "ramsey/uuid": "^4.5",
+        "phpoffice/phpspreadsheet": "^1.25",
+        "phpmailer/phpmailer": "^6.6"
+    }
+}

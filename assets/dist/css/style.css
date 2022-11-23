@@ -1,0 +1,119 @@
+.bg-orange {
+    background-color: #FF6C20;
+    position: absolute;
+    width: 650px;
+    height: 600px;
+
+}
+
+.white {
+    color: white;
+}
+
+.orange {
+    color: #FF6C20;
+}
+
+.card-login {
+    padding: 13%;
+    background-color: #FF6C20;
+    border: none;
+
+}
+
+.br-10 {
+    border-radius: 10px;
+}
+
+.br-15 {
+    border-radius: 15px;
+}
+
+.btn-white {
+    background-color: white;
+    color: #FF6C20;
+    width: 120px;
+}
+
+.btn-white:hover {
+    background-color: rgb(25, 0, 255);
+    color: white;
+    width: 120px;
+}
+
+.btn-white2 {
+    background-color: white;
+    color: #FF6C20;
+    width: 100px;
+    border: 1px solid #FF6C20;
+}
+
+.btn-white2:hover {
+    background-color: #FF6C20;
+    color: white;
+    width: 100px;
+    border: 1px solid #FF6C20;
+}
+
+.btn-white3 {
+    background-color: #FF6C20;
+    color: white;
+    width: 140px;
+    border: 1px solid #ffffff;
+}
+
+.btn-white3:hover {
+    background-color: white;
+    color: #FF6C20;
+    width: 140px;
+    border: 1px solid #FF6C20;
+}
+
+hr {
+    opacity: 1;
+    border: 2px solid white;
+    width: 190px;
+}
+
+.form-register {
+    width: 420px;
+    border-color: #EC7335;
+}
+
+.form-verifikasi {
+    width: 220px;
+    border-color: #EC7335;
+}
+
+.card-verifikasi {
+    border: 3px solid  #F58634;
+}
+
+.card-verifikasi2 {
+    border: none;
+    margin-top: 15%;
+    width: 300px;
+}
+
+#hide1 {
+    display: none;
+}
+
+#hide11 {
+    display: none;
+}
+.card-lupa {
+    border: dashed 2px #FF6C20 ;
+    height: 400px;
+    width: 93%;
+    position: relative;
+}
+
+.card-lupa2 {
+   background-color: #E2DFDF;
+   position: absolute;
+   top: 17%;
+   width: 77%;
+   left: 13%;
+
+}
